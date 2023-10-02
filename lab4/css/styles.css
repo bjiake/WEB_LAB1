@@ -46,6 +46,18 @@ a{
 a:hover {
   color: #EAF6F6;
 }
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  height: 100px;
+  border: 1px solid black;
+}
+
+.download-button {
+  margin-top: 5%;
+  margin-right: 3%;
+  margin-left: 5%;
+}
 
 .top-container {
   background-color: #E4F9F5;
@@ -80,6 +92,10 @@ a:hover {
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
+}
+.nav-link {
+  padding: 0 18px;
+  font-size: 25px;
 }
 
 .copyright {
